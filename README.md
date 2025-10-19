@@ -4,7 +4,7 @@ This project is a simple and responsive message input component built with HTML,
 
 📸 Preview
 
-Live Character Counter Preview (https://github.com/Lokistark/Live-Message-Counter/blob/main/Screenshot%202025-10-19%20073601.png)
+![Project Screenshot]()
 -The preview shows a clean message box with a character counter and a clear button, styled with rounded corners and a soft gradient background.
 
 🚀 Features

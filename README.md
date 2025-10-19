@@ -1,4 +1,4 @@
-# Smart-Message Box with Live Character Counter
+📝 Smart-Message Box with Live Character Counter
 
 This project is a simple and responsive message input component built with HTML, CSS, and JavaScript. It features a live character counter that updates in real time as the user types, enforces a maximum character limit, and displays a warning when the limit is reached. A Clear button allows users to reset the input field and counter instantly.
 

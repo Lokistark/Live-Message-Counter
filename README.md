@@ -2,6 +2,11 @@
 
 This project is a simple and responsive message input component built with HTML, CSS, and JavaScript. It features a live character counter that updates in real time as the user types, enforces a maximum character limit, and displays a warning when the limit is reached. A Clear button allows users to reset the input field and counter instantly.
 
+📸 Preview
+
+Live Character Counter Preview 
+-The preview shows a clean message box with a character counter and a clear button, styled with rounded corners and a soft gradient background.
+
 🚀 Features
 
 - Real-time character tracking (e.g., 150/200 characters)
@@ -19,7 +24,7 @@ This project is a simple and responsive message input component built with HTML,
   
 📦 How to Use
 
-- Clone or download the repository using this link : 
+- Clone or download the repository using this link : https://github.com/Lokistark/Live-Message-Counter.git
 - Open the index.html file in your browser.
 - Start typing in the message box and watch the counter update.
 - Click the Clear button to reset the input.
@@ -33,12 +38,9 @@ This project is a simple and responsive message input component built with HTML,
 
 🔗 Project Files & Source Code
 
-You can view the complete project files and source code on GitHub:
+  You can view the complete project files and source code on GitHub: https://github.com/Lokistark/Live-Message-Counter.git
 
-Smart-Message Box with Live Character Counter (Webpage) - 
+   Smart-Message Box with Live Character Counter (Webpage) - https://lokistark.github.io/Live-Message-Counter/
 
-Feel free to explore the HTML, Tailwind CSS styling, and page structure used in this multi-page website.
+  Feel free to explore the HTML, Tailwind CSS styling, and page structure used in this multi-page website.
   
-
-Let me know if you want help writing installation steps, adding screenshots, or creating badges for GitHub!
-

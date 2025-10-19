@@ -38,7 +38,9 @@ This project is a simple and responsive message input component built with HTML,
 
 🔗 Project Files & Source Code
 
--You can view the complete project files and source code on GitHub: https://github.com/Lokistark/Live-Message-Counter.git
--Smart-Message Box with Live Character Counter (Webpage) - https://lokistark.github.io/Live-Message-Counter/
--Feel free to explore the HTML, Tailwind CSS styling, and page structure used in this multi-page website.
+- You can view the complete project files and source code on GitHub: https://github.com/Lokistark/Live-Message-Counter.git
+ 
+- Smart-Message Box with Live Character Counter (Webpage) - https://lokistark.github.io/Live-Message-Counter/
+ 
+- Feel free to explore the HTML, Tailwind CSS styling, and page structure used in this multi-page website.
   

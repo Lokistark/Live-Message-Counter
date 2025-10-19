@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Live Character Counter</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <div class="container">
+    <h2>Your Message 💬</h2>
+    <p>Max 200 characters</p>
+    <textarea id="message" maxlength="200" placeholder="Type your message here..."></textarea>
+    <div class="counter-box">
+      <div id="charCounter">0/200 characters</div>
+    </div>
+    <div class="warning" id="warningMsg">⚠️ Character limit reached!</div>
+    <button id="clearBtn">Clear</button>
+  </div>
+
+  <script src="script.js"></script>
+
+</body>
+</html>

@@ -42,7 +42,5 @@ This project is a simple and responsive message input component built with HTML,
  
 - Smart-Message Box with Live Character Counter (Webpage) - https://lokistark.github.io/Live-Message-Counter
 
-- Feel free to explore the Simple Registration form that perform Real-time validation using JavaScript.
- 
 - Feel free to explore the simple and responsive message input component built with HTML, CSS, and JavaScript that features a live character counter that updates in real time as the user types, enforces a maximum character limit, and displays a warning when the limit is reached and a clear button allows users to reset the input field and counter instantly. 
   
